@@ -1,0 +1,120 @@
+{
+  "main.empty": "Empty",
+  "main.create": "Create",
+  "main.add": "Add",
+  "main.edit": "Edit",
+  "main.save": "Save",
+  "main.remove": "Remove",
+  "main.delete": "Delete",
+
+  "main.ok": "OK",
+  "main.cancel": "Cancel",
+  "main.yes": "Yes",
+  "main.no": "No",
+
+
+  "questions.sure": "Are you sure?",
+
+
+  "pagination.prev": "Prev",
+  "pagination.next": "Next",
+
+
+  "navigation.statistics": "Statistics",
+  "navigation.offers": "Offers",
+  "navigation.news": "News",
+  "navigation.tools": "Tools",
+  "navigation.tools.sources": "Sources",
+  "navigation.tools.flow": "Flow",
+  "navigation.tools.domains": "Domains",
+  "navigation.tools.api": "Site Key",
+  "navigation.help": "Help",
+  "navigation.help.support": "Support",
+  "navigation.help.faq": "FAQ",
+
+
+  "account.title": "Account",
+  "account.profile": "Profile",
+  "account.payments": "Payments",
+  "account.password": "Password",
+  "account.payment-data": "Payment Data",
+  "account.notifications": "Notifications",
+  "account.sign-out": "Sign Out",
+
+  "account.balance": "Balance",
+  "account.hold": "Hold",
+  "account.currency": "Currency",
+  "account.currency-rate": "Currency exchange rate",
+
+  "streams.header.title": "flows",
+  "streams.table.locked": "Flow is blocked!",
+
+  "stream.header.title": "New flow",
+  "stream.form.title": "Title",
+  "stream.form.site": "Source",
+  "stream.form.offer": "Offer",
+
+
+  "offers.filters.countries": "Countries",
+  "offers.filters.categories": "Categories",
+  "offers.filters.sources": "Sources",
+  "offers.filters.currencies": "Currencies",
+  "offers.filters.search": "Search",
+
+  "offers.table.offer": "Offer",
+  "offers.table.targets": "Targets",
+  "offers.table.value": "Value",
+  "offers.table.geo": "Geo",
+  "offers.limits": "Offers per page",
+  "offers.breadcrumb": "All offers",
+  "offers.not-found": "No offers found",
+
+  "offer.buttons.activate-offer": "Activate",
+  "offer.buttons.create-stream": "Create Flow",
+  "offer.buttons.remove-offer": "Remove offer",
+
+  "offer.description": "Description",
+  "offer.overview": "Overview",
+  "offer.rules": "Offer's rules",
+  "offer.modal.remove": "Remove offer",
+
+
+  "sources.header.title": "Sources",
+  "sources.table.id": "ID",
+  "sources.table.title": "Title",
+  "sources.table.traffic-source": "Traffic source",
+  "sources.table.no-sources": "No Sources",
+  "sources.form.title": "Title",
+  "sources.form.site": "Source",
+  "sources.form.offer": "Offer",
+  "sources.buttons.add-source": "Add Source",
+
+  "source.modal.header": "Source editing",
+  "source.modal.label-title": "Title",
+
+
+  "tickets.all_tickets": "All tickets",
+  "tickets.create_ticket": "Create Ticket",
+  "tickets.perhaps_answer": "Perhaps the answer to your question is already in the",
+  "tickets.link_help_section": "help section",
+  "tickets.closed_ticket": "Closed ticket",
+  "tickets.close_ticket": "Close ticket",
+  "tickets.no_tickets": "No Tickets",
+  "tickets.id": "ID",
+  "tickets.updated": "Updated",
+  "tickets.title": "Title",
+  "tickets.status": "Status",
+  "tickets.answers": "Answers",
+
+
+  "profile.edit": "Edit Profile",
+  "profile.name": "Name",
+  "profile.email": "E-mail",
+  "profile.change_possible": "Change is possible only on request to the",
+  "profile.support": "support",
+  "profile.phone": "Phone",
+  "profile.skype": "Skype",
+  "profile.icq": "ICQ",
+  "profile.dont_use_statistics": "Do not use my data in statistics"
+
+}
